@@ -1,4 +1,4 @@
-# Gym Website
+# Gym Website Page
 
 ## Overview
 This repository contains the source code for a comprehensive gym website built using HTML and CSS. The website includes various sections such as Home, About, Gym Gears (Equipment), Classes and Services, Pricing Plans, Trainer and Coach Details, Enrollment Option, Tips and Guides, Motivational Quotes, Training Plan, and Nutrition Plan.
